@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/Parrishye/xhttp0624:latest
+          tags: ghcr.io/Parrishye/xhttp25624:latest
